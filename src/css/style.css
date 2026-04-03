@@ -73,5 +73,30 @@ footer {
     }
 }
 
+h1 {
+    transition: 0.3s;
+}
+
+h1:hover {
+    color: #ffffff;
+    transform: scale(1.05);
+}
+
+p {
+    margin-top: 15px;
+}
+
+main {
+    max-width: 600px;
+}
+
+body {
+    border: 2px solid #d4af37;
+}
+
+footer {
+    opacity: 0.8;
+}
+
 
 /* final do arquivo */
